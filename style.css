@@ -1,0 +1,119 @@
+body
+{
+    background-image: linear-gradient(to right top, #33f1af,  #11e8d6, #0ef0bf, #0db5ed);
+
+}
+
+#Entertainment
+{
+    font-size: 50px;
+}
+
+#Learning
+{
+    font-size: 50px;
+}
+
+#movies
+{
+    font-size: 50px;
+}
+
+#Books
+{
+    font-size: 50px;
+}
+
+#title
+{
+    font-size: 60px;
+    font-weight: bolder;
+    
+}
+
+.image
+{
+    height: 180px;
+    width: 200px;
+}
+
+.title
+{
+    font-size: 90px;
+    background-color: white;
+}
+
+#titlee
+{
+    font-size: 90px;
+    background-color: white;
+}
+
+#titlel
+{
+    font-size: 90px;
+}
+
+
+#titlem
+{
+    font-size: 90px;
+}
+
+.imagem
+{
+    width: 270px;
+    height: 170px;
+}
+
+#cube
+{
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+#plants
+{
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+#time
+{
+    font-size: 40px;
+    font-weight: bolder;
+
+}
+
+#romannumerals
+{
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+#shoelaces
+{
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+#hot-dog
+{
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+#movieindex
+{
+    width: 200px;
+    height: 100px;
+}
+
+.main
+{
+    background-image: url("pic1.png");
+}
+.white
+{
+    color: white;
+}
